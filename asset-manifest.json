@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test.github.io/static/css/main.f55f25d9.css",
-    "main.js": "/test.github.io/static/js/main.cda1c5d5.js",
+    "main.css": "/test.github.io/static/css/main.1a2fdf3c.css",
+    "main.js": "/test.github.io/static/js/main.dff1305e.js",
     "static/media/production_2.JPG": "/test.github.io/static/media/production_2.e4fa4f50d07e2d8451a2.JPG",
     "static/media/production_3.JPG": "/test.github.io/static/media/production_3.37f780e226bcb0740748.JPG",
     "static/media/Untitled_1.1.5.jpg": "/test.github.io/static/media/Untitled_1.1.5.4097f88c61c7483883e8.jpg",
@@ -15,11 +15,11 @@
     "static/media/prod_1.jpg": "/test.github.io/static/media/prod_1.c01aaa00b5abbec911ff.jpg",
     "static/media/production_1.JPG": "/test.github.io/static/media/production_1.127cf65ea3332255263c.JPG",
     "index.html": "/test.github.io/index.html",
-    "main.f55f25d9.css.map": "/test.github.io/static/css/main.f55f25d9.css.map",
-    "main.cda1c5d5.js.map": "/test.github.io/static/js/main.cda1c5d5.js.map"
+    "main.1a2fdf3c.css.map": "/test.github.io/static/css/main.1a2fdf3c.css.map",
+    "main.dff1305e.js.map": "/test.github.io/static/js/main.dff1305e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f55f25d9.css",
-    "static/js/main.cda1c5d5.js"
+    "static/css/main.1a2fdf3c.css",
+    "static/js/main.dff1305e.js"
   ]
 }
